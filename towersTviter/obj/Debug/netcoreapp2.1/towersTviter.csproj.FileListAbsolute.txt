@@ -1,0 +1,11 @@
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\bin\Debug\netcoreapp2.1\towersTviter.deps.json
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\bin\Debug\netcoreapp2.1\towersTviter.runtimeconfig.json
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\bin\Debug\netcoreapp2.1\towersTviter.runtimeconfig.dev.json
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\bin\Debug\netcoreapp2.1\towersTviter.dll
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\bin\Debug\netcoreapp2.1\towersTviter.pdb
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.csprojAssemblyReference.cache
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.csproj.CoreCompileInputs.cache
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.AssemblyInfoInputs.cache
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.AssemblyInfo.cs
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.dll
+C:\Users\אהובי\Documents\פרויקט הדסים\towersTviter\towersTviter\obj\Debug\netcoreapp2.1\towersTviter.pdb
